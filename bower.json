@@ -1,0 +1,17 @@
+{
+  "name": "padelapp",
+  "description": "",
+  "main": "www/index.html",
+  "authors": [
+    "Aitor Molina"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
